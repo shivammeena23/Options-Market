@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+
+# Reconstruct locally; the third-party source does not grant explicit republication rights.
+historical_prices.csv
+
+# Generated analysis outputs (recreated by running the scripts).
+results/
+monte_carlo_simulations.csv
+monte_carlo_metrics.json
+monte_carlo_plot.png
+validation_summary.json
+diagnostics.png
